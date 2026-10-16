@@ -11,3 +11,6 @@ target/
 # Sweet Home 3D local state
 *.log
 *.lck
+
+# MCP helper files
+CLAUDE.md
